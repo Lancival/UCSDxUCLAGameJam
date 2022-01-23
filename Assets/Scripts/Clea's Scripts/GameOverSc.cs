@@ -6,15 +6,17 @@ using UnityEngine.SceneManagement;
 
 public class GameOverSc : MonoBehaviour
 {
-    public void QuitGame()
+
+    public void Quit()
     {
         Debug.Log("APPLICATION QUIT.");
-        Application.Quit();
+        // Load Title Screen
+        SceneManager.LoadScene("TitleScene");
     }
 
     public void Retry()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-
+        Debug.Log("APPLICATION RETRY.");
+        //Load last scene
     }
 }

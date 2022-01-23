@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class HealthBar : MonoBehaviour
 {
@@ -21,6 +22,12 @@ public class HealthBar : MonoBehaviour
             health = numOfHearts;
         }
 
+        if (health == 0)
+        {
+            SceneManager.LoadScene("GameOverScene");
+            Time.timeScale = 0;
+        }
+
 
         for (int i = 0; i < hearts.Length; i++)
         {
@@ -32,7 +39,6 @@ public class HealthBar : MonoBehaviour
                 hearts[i].sprite = emptyHearts;
             }
 
-
             if(i < numOfHearts)
             {
                 hearts[i].enabled = true;
@@ -40,7 +46,6 @@ public class HealthBar : MonoBehaviour
             {
                 hearts[i].enabled = false;
             }
-
         }
     }
 }
