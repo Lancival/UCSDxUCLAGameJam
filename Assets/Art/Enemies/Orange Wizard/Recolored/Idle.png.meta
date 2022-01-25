@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 29279950b1b69da4d99fc3b131210f19
+guid: ebd9c24a7ee2dfd45ade5af2a957f1f8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slime_Run_Yellow_0
+      name: Idle_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 16
-        width: 20
-        height: 20
+        x: 57
+        y: 50
+        width: 32
+        height: 55
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 644eaed791084ad4d85b6ec95ac61fab
-      internalID: 508999883
+      spriteID: 19504afc74acca347afcc076194893a5
+      internalID: 1024924640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_1
+      name: Idle_1
       rect:
         serializedVersion: 2
-        x: 83
-        y: 16
-        width: 24
-        height: 19
+        x: 205
+        y: 49
+        width: 34
+        height: 54
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8980ee613a7b4745831e88bc1e9ec18
-      internalID: 898808256
+      spriteID: 200d7b5283ecefc42ad363078a96791e
+      internalID: 881745040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_2
+      name: Idle_2
       rect:
         serializedVersion: 2
-        x: 149
-        y: 16
-        width: 19
-        height: 17
+        x: 354
+        y: 48
+        width: 35
+        height: 54
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f6c63fc6afca7a43b71a33eae57f356
-      internalID: 715370350
+      spriteID: bd3197e80c35091428b9e37de7c9014d
+      internalID: -1993623709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_3
+      name: Idle_3
       rect:
         serializedVersion: 2
-        x: 212
-        y: 16
-        width: 18
-        height: 16
+        x: 507
+        y: 48
+        width: 32
+        height: 53
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,8 +181,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f41686fa39c07145a73f924c358158e
-      internalID: 2084513967
+      spriteID: 5e125410938ff6e49b749f6b0e520a5c
+      internalID: 1076088813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 48
+        width: 32
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbf715ee56cced4281606b546fb985f
+      internalID: 1149890144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 49
+        width: 35
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8ade20cc380a84ca998d007cb1affd
+      internalID: -820156555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_6
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 49
+        width: 35
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c64524151b116040afbbce215b13971
+      internalID: -1914224148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 49
+        width: 34
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584903935f6f001458ebe6488903aeb6
+      internalID: -2138539467
       vertices: []
       indices: 
       edges: []
@@ -198,10 +282,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Slime_Run_Yellow_0: 508999883
-      Slime_Run_Yellow_3: 2084513967
-      Slime_Run_Yellow_2: 715370350
-      Slime_Run_Yellow_1: 898808256
+      Idle_4: 1149890144
+      Idle_1: 881745040
+      Idle_3: 1076088813
+      Idle_5: -820156555
+      Idle_0: 1024924640
+      Idle_6: -1914224148
+      Idle_7: -2138539467
+      Idle_2: -1993623709
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

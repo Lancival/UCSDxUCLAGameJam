@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 29279950b1b69da4d99fc3b131210f19
+guid: 8a02fe004a79c844ca28500e3310411c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slime_Run_Yellow_0
+      name: Run_3
       rect:
         serializedVersion: 2
-        x: 20
-        y: 16
-        width: 20
-        height: 20
+        x: 839
+        y: 83
+        width: 70
+        height: 68
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 644eaed791084ad4d85b6ec95ac61fab
-      internalID: 508999883
+      spriteID: ffe5f3e72b5e54c48879f6c502301a47
+      internalID: 272706209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_1
+      name: Run_5
       rect:
         serializedVersion: 2
-        x: 83
-        y: 16
-        width: 24
-        height: 19
+        x: 1594
+        y: 83
+        width: 65
+        height: 65
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8980ee613a7b4745831e88bc1e9ec18
-      internalID: 898808256
+      spriteID: 0c37365cca331164e953f8e441307252
+      internalID: -638357906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_2
+      name: Run_7
       rect:
         serializedVersion: 2
-        x: 149
-        y: 16
-        width: 19
-        height: 17
+        x: 94
+        y: 83
+        width: 65
+        height: 61
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f6c63fc6afca7a43b71a33eae57f356
-      internalID: 715370350
+      spriteID: a6b29120711e9714a88bf5292a3a4111
+      internalID: -556350563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_3
+      name: Run_10
       rect:
         serializedVersion: 2
-        x: 212
-        y: 16
-        width: 18
-        height: 16
+        x: 1092
+        y: 83
+        width: 67
+        height: 61
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,8 +181,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f41686fa39c07145a73f924c358158e
-      internalID: 2084513967
+      spriteID: a9f55ffbdcf47ea43b98b1625f8ff85c
+      internalID: 2000610261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_11
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 83
+        width: 66
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e06ca2f513d33a4ea466d8b1c916fd4
+      internalID: -32598695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 83
+        width: 67
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde77328a14e9e54ba567c479a242cd8
+      internalID: -229898449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_13
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 83
+        width: 67
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac04e0558db0e1542afbccfe912e2e76
+      internalID: -985503063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_14
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 86
+        width: 63
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75256229bf996f42ac5d0b433275f98
+      internalID: 1292234746
       vertices: []
       indices: 
       edges: []
@@ -198,10 +282,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Slime_Run_Yellow_0: 508999883
-      Slime_Run_Yellow_3: 2084513967
-      Slime_Run_Yellow_2: 715370350
-      Slime_Run_Yellow_1: 898808256
+      Run_8: -297978374
+      Run_6: -656933370
+      Run_2: 2129220621
+      Run_12: -229898449
+      Run_11: -32598695
+      Run_14: 1292234746
+      Run_13: -985503063
+      Run_1: 656610065
+      Run_3: 272706209
+      Run_7: -556350563
+      Run_4: -1037284525
+      Run_0: 227183752
+      Run_10: 2000610261
+      Run_9: -1979147393
+      Run_5: -638357906
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

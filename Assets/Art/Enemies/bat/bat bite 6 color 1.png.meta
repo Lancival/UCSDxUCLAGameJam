@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4f9f95d9866a38f49b02e43d889d6273
+guid: f42214ee96f41064291197f83ab30154
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,1009 +104,1009 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bat bite 6 color_0
+      name: bat bite 6 color 1_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 320
-        width: 33
-        height: 35
+        x: 8
+        y: 467
+        width: 35
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4d8cdc73e7af0b4393418f791fd4351
-      internalID: 25072387
+      spriteID: 1ad45890a635d0c4bbbaf732cdd99477
+      internalID: 1290575484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_1
+      name: bat bite 6 color 1_1
       rect:
         serializedVersion: 2
-        x: 102
-        y: 328
-        width: 33
+        x: 54
+        y: 466
+        width: 32
         height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbcb1261d6369f949a30188b61f53813
-      internalID: 655701858
+      spriteID: 694cfb38870e4c7458eff6fb222a9fd7
+      internalID: -865871219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_2
+      name: bat bite 6 color 1_2
       rect:
         serializedVersion: 2
-        x: 186
-        y: 309
+        x: 96
+        y: 465
         width: 33
-        height: 35
+        height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07d6be65238e80049afb1c980e7d9b70
-      internalID: 766011639
+      spriteID: 09268238dd01a054bb846a205d9fb858
+      internalID: -435466433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_3
+      name: bat bite 6 color 1_3
       rect:
         serializedVersion: 2
-        x: 298
+        x: 136
+        y: 465
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af029d7262ab8f4a8a7d880e0a53ad6
+      internalID: -1598757407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 469
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01374a96adb1c7e40be6eabd502fa757
+      internalID: -868731761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 484
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e9f4241fe82c44aacf75ffe2e4dcd9
+      internalID: -1827326810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 470
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1c5e3957657874ab228e722b55f2b0
+      internalID: 1897822230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 482
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061d3b7fb47d9864fa2c7652cff16a07
+      internalID: 1391765628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 377
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f55ef5f865b9bf46852d40a89644d4d
+      internalID: 1742918165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 376
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a409af0ad755c34b892cdeb84b94812
+      internalID: 397769771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 375
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffdec20f7124e345b85fb63c8d38840
+      internalID: -714830673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 375
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166df2c60bdedb548a8eeabe8282e811
+      internalID: 2059295093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 379
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185409712549f3a4cbb9ac30098ab660
+      internalID: 349566259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 394
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53736c532232e9846ae1289eff9db14c
+      internalID: 27993314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 380
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53d1d7ea3e5a3a47a8e25e27def71d0
+      internalID: 269516340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_24
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 392
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950c70224d75cd14b90c0c36751695ae
+      internalID: 834226585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 298
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e99644e94737d40b1215b95cc26c19
+      internalID: -1957655439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_31
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 297
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a6d0800cf85664e9abe6bd04728d36
+      internalID: 1082844313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 296
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fafd7d113792548a4453aaeb28155f
+      internalID: -1643313690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 296
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcef2da2b0618d9449af2536b5e83bda
+      internalID: -178295731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 300
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547f7efd8ba7acb49b6144caeee55f05
+      internalID: 814945346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_37
+      rect:
+        serializedVersion: 2
+        x: 327
         y: 315
-        width: 33
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d593c5c44d48dc4d999af4f9fbbcdeb
-      internalID: -1890479255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_4
-      rect:
-        serializedVersion: 2
-        x: 377
-        y: 328
-        width: 33
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 648beece5bb08994ab5c09126d4ad83c
-      internalID: 1943811159
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_5
-      rect:
-        serializedVersion: 2
-        x: 467
-        y: 328
-        width: 33
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68016ae955a179148b133b7969057e76
-      internalID: -740673875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_6
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 277
         width: 35
-        height: 32
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 240de32050d301a489e35cde0d3156cf
-      internalID: 1179186463
+      spriteID: a324f573bb1e5c24082b055ba53b5d7e
+      internalID: 1380589291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_7
+      name: bat bite 6 color 1_38
       rect:
         serializedVersion: 2
-        x: 101
-        y: 285
+        x: 190
+        y: 301
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2826c594a31600c4b915a3614dd098fb
+      internalID: 1490396459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_39
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 313
         width: 35
-        height: 32
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c3aa4bb01981ca4ab349d0b190705ba
-      internalID: 323257031
+      spriteID: 58548e450c7b62542869ffca11f9c42b
+      internalID: -1684585262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_8
+      name: bat bite 6 color 1_45
       rect:
         serializedVersion: 2
-        x: 185
-        y: 266
-        width: 35
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df7261d4477f74b43b6e43733f3ffad7
-      internalID: -1473530943
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_9
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 272
-        width: 35
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6fd0ca113e218be46912ef322749700f
-      internalID: 214672593
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_10
-      rect:
-        serializedVersion: 2
-        x: 376
-        y: 285
-        width: 35
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 440a7d7d9e149de48a854bbdfbff55c1
-      internalID: 607638690
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_11
-      rect:
-        serializedVersion: 2
-        x: 466
-        y: 285
-        width: 35
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6d0cf65b81119fa479ca1cb59324a9b6
-      internalID: -1377058692
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_12
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 234
-        width: 38
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 16cb7a254538976458c8dedf8bcfcd8a
-      internalID: 747252952
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_13
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 242
-        width: 38
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f6036693329bc4449a433ad060ac974
-      internalID: -375069127
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_14
-      rect:
-        serializedVersion: 2
-        x: 184
-        y: 223
-        width: 38
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a76e42fb16d245f46b465c753042e75c
-      internalID: -733657202
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_15
-      rect:
-        serializedVersion: 2
-        x: 296
-        y: 229
-        width: 38
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 05f40bf10742c3c4782cb362c53603e1
-      internalID: -2082783257
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_16
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 242
-        width: 38
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bba647531bf2bce4b8f291a687834e7e
-      internalID: 1804769441
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_17
-      rect:
-        serializedVersion: 2
-        x: 465
-        y: 242
-        width: 38
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97dccee143511c04ab30677e9f4609be
-      internalID: 603324738
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_18
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 199
-        width: 35
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a62f8e68413a8034d800a5a44a4ab56a
-      internalID: -500276749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_20
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 199
-        width: 35
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a2ec4347623fb8478a5a000a6818a56
-      internalID: -576655200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_22
-      rect:
-        serializedVersion: 2
-        x: 465
-        y: 199
-        width: 35
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 441672f9974d31d4dbe70ea5644d3a9a
-      internalID: -545906238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_24
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 191
-        width: 35
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 731217ba8b181af4caad2305c3420c60
-      internalID: 1582242691
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_27
-      rect:
-        serializedVersion: 2
-        x: 184
-        y: 180
-        width: 35
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ad8a33d26547f74d884eb67aa4fe0d3
-      internalID: -829381695
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_29
-      rect:
-        serializedVersion: 2
-        x: 296
+        x: 27
         y: 186
         width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3382705a1c186d74e87f8bf6246175c2
+      internalID: -1015557038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_46
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 185
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afb670520e3b574b8a823ba060c61f9
+      internalID: 785782652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_47
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 184
+        width: 33
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 608f11b1c414fbf46b00779661a51d61
-      internalID: 1787153322
+      spriteID: 19b1b59f9f5817541895ded43df5c522
+      internalID: 534604802
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_34
+      name: bat bite 6 color 1_48
       rect:
         serializedVersion: 2
-        x: 105
-        y: 158
-        width: 26
-        height: 37
+        x: 154
+        y: 185
+        width: 37
+        height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9651112229a52f1439af010f89b3afb8
-      internalID: -377975696
+      spriteID: ae3a2920a9d5122488d86f3b5305d18e
+      internalID: 114069093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_35
+      name: bat bite 6 color 1_51
       rect:
         serializedVersion: 2
-        x: 380
-        y: 158
-        width: 26
-        height: 36
+        x: 239
+        y: 188
+        width: 44
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41d0e5f6f7d3f924cb61bcd3b32a5d23
-      internalID: -1234056292
+      spriteID: d437cb2246b08e141a6038999a722b73
+      internalID: 1219685953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_36
+      name: bat bite 6 color 1_52
       rect:
         serializedVersion: 2
-        x: 470
-        y: 158
-        width: 26
-        height: 36
+        x: 333
+        y: 203
+        width: 35
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03f99da7804874743ab7141657fb17f7
-      internalID: -1041388918
+      spriteID: 2fca630b9db3c324a9261a8df2a12800
+      internalID: -1193270234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_37
+      name: bat bite 6 color 1_53
       rect:
         serializedVersion: 2
-        x: 23
-        y: 150
-        width: 26
-        height: 37
+        x: 196
+        y: 189
+        width: 36
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 028cf7fe341fae146b48e715c6f77b30
-      internalID: 1227223313
+      spriteID: 5b2a14c8f1d53884998383b2a074cc55
+      internalID: -1361607287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_44
+      name: bat bite 6 color 1_54
       rect:
         serializedVersion: 2
-        x: 301
-        y: 145
-        width: 26
-        height: 37
+        x: 288
+        y: 201
+        width: 35
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b995296d917cc4b40ba5a70c5f1dfca2
-      internalID: -65942061
+      spriteID: b91ebf05576680e479497a86dbadc0d1
+      internalID: 1574569484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_46
+      name: bat bite 6 color 1_60
       rect:
         serializedVersion: 2
-        x: 189
-        y: 139
-        width: 26
-        height: 37
+        x: 8
+        y: 102
+        width: 35
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84a7d5213d732f1469103cb467ee8420
-      internalID: 1134466787
+      spriteID: cefcd33f6c88d80458608e57d23074dd
+      internalID: -814038874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_57
+      name: bat bite 6 color 1_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 101
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c30e40a66cdc4469824273fc135f1f
+      internalID: -1028249307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517b321b5efb9884ab271d6831254def
+      internalID: 649756885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 100
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2916031a26520024a915d88f3d0bbe9a
+      internalID: 289839769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_66
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 104
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e649db9eacf4478d45bf9b7257a64
+      internalID: 1419281749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_67
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 119
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c19e9af1f86c9438e9e4c663eff462
+      internalID: 1904914173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_68
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 105
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08da24b0bf3a11846aabd9159cda9572
+      internalID: -1896592628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_69
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 117
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8904a9c5d8ab77d439dcccadb3638625
+      internalID: -1942928639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b658aced023cf348b0be992585c9563
+      internalID: -415772848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_76
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 19
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d808f66cb3e3aa44a5102ac8d4fd46d
+      internalID: -1680325513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat bite 6 color 1_77
       rect:
         serializedVersion: 2
         x: 104
-        y: 107
+        y: 18
         width: 33
-        height: 44
+        height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd2413742ab5b7444b801134fbd5618d
-      internalID: -63857974
+      spriteID: a376b594340f39049ad10a48eb7af560
+      internalID: -2045321094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_60
+      name: bat bite 6 color 1_78
       rect:
         serializedVersion: 2
-        x: 379
-        y: 107
-        width: 33
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 151c642409805b84d800b560ea8b03dc
-      internalID: -1202082566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_61
-      rect:
-        serializedVersion: 2
-        x: 469
-        y: 107
-        width: 33
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6adff486dbf267045bf874c9d0d975f9
-      internalID: 133073303
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_62
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 99
-        width: 33
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf01ac3ab9ac0bc428983252e74a84d4
-      internalID: 791037355
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_64
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 94
-        width: 33
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 35f126cefb557c149b818da9a11093e7
-      internalID: -1004445945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_65
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 59
-        width: 16
+        x: 144
+        y: 18
+        width: 36
         height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a519b919c5d05ea4a8e4e94839d8ce65
-      internalID: -1702637217
+      spriteID: 30a7bcb325b5b9c4784a00782b98545e
+      internalID: 4644684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_66
+      name: bat bite 6 color 1_81
       rect:
         serializedVersion: 2
-        x: 117
-        y: 67
-        width: 16
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 764d1d3d979b50d439b07256c7cc9a25
-      internalID: -2147324343
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_67
-      rect:
-        serializedVersion: 2
-        x: 188
-        y: 88
-        width: 33
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2a8a1017e6107bd43a44b8e692bbc4ff
-      internalID: -1511693038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_68
-      rect:
-        serializedVersion: 2
-        x: 313
-        y: 54
-        width: 16
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa05d095b66a14a4c97aac6ac8173261
-      internalID: 710846952
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_69
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 67
-        width: 16
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b48d052e062caf4798e567ea23b335c
-      internalID: -173298409
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_70
-      rect:
-        serializedVersion: 2
-        x: 482
-        y: 67
-        width: 16
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb9220aaf106e7b4c8aa7080f139da3b
-      internalID: -444663837
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_72
-      rect:
-        serializedVersion: 2
-        x: 201
-        y: 48
-        width: 16
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e1b8a7987c6ff85449dd03f8613db1c3
-      internalID: 1114567443
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_78
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 14
-        width: 16
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e80b0b3bc0222ea4a879c66384681257
-      internalID: -1817914288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_80
-      rect:
-        serializedVersion: 2
-        x: 119
+        x: 228
         y: 22
-        width: 16
-        height: 35
+        width: 44
+        height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5bd2386391b7044b80e707bbf1411fd
-      internalID: 1437457955
+      spriteID: 3c49a213cc111c6459334c418c36b452
+      internalID: 1209287866
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_81
+      name: bat bite 6 color 1_82
       rect:
         serializedVersion: 2
-        x: 203
-        y: 3
-        width: 16
-        height: 35
+        x: 322
+        y: 37
+        width: 35
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e92aefb81e1aef74e935c3f02ca530bb
-      internalID: -1263511517
+      spriteID: 7b170574f97c2d54196b083b6f8c943e
+      internalID: -350037593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_82
+      name: bat bite 6 color 1_83
       rect:
         serializedVersion: 2
-        x: 315
-        y: 9
-        width: 16
-        height: 35
+        x: 185
+        y: 23
+        width: 36
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a39a69b8fc2207a479e178ee0f7912dc
-      internalID: 1936817734
+      spriteID: efd08e00d6d6bee42a3cd1c964bdce23
+      internalID: 881377679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bat bite 6 color_84
+      name: bat bite 6 color 1_84
       rect:
         serializedVersion: 2
-        x: 394
-        y: 22
-        width: 16
-        height: 35
+        x: 277
+        y: 35
+        width: 35
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 432d53a97d730934e94f44a58a951354
-      internalID: -16514275
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bat bite 6 color_86
-      rect:
-        serializedVersion: 2
-        x: 484
-        y: 22
-        width: 16
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 053b12a56bcfcd34c9f10c6f393c186a
-      internalID: -1850690087
+      spriteID: d83df174b37de3a40b34a6534f3add08
+      internalID: -312390938
       vertices: []
       indices: 
       edges: []
@@ -1122,96 +1122,96 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bat bite 6 color_60: -1202082566
-      bat bite 6 color_74: 1302174057
-      bat bite 6 color_38: -740172880
-      bat bite 6 color_45: 2413835
-      bat bite 6 color_54: -1110310137
-      bat bite 6 color_61: 133073303
-      bat bite 6 color_57: -63857974
-      bat bite 6 color_48: -1689336118
-      bat bite 6 color_59: 70576409
-      bat bite 6 color_86: -1850690087
-      bat bite 6 color_9: 214672593
-      bat bite 6 color_85: -1749055037
-      bat bite 6 color_12: 747252952
-      bat bite 6 color_22: -545906238
-      bat bite 6 color_27: -829381695
-      bat bite 6 color_35: -1234056292
-      bat bite 6 color_50: 330947130
-      bat bite 6 color_3: -1890479255
-      bat bite 6 color_23: 334643085
-      bat bite 6 color_14: -733657202
-      bat bite 6 color_49: 570963158
-      bat bite 6 color_10: 607638690
-      bat bite 6 color_55: -1271922060
-      bat bite 6 color_31: -484261507
-      bat bite 6 color_13: -375069127
-      bat bite 6 color_52: 1657251898
-      bat bite 6 color_65: -1702637217
-      bat bite 6 color_77: 1143681022
-      bat bite 6 color_32: 2125496073
-      bat bite 6 color_16: 1804769441
-      bat bite 6 color_83: 819629308
-      bat bite 6 color_20: -576655200
-      bat bite 6 color_78: -1817914288
-      bat bite 6 color_5: -740673875
-      bat bite 6 color_80: 1437457955
-      bat bite 6 color_63: -1707886176
-      bat bite 6 color_87: 1333227579
-      bat bite 6 color_73: 1498822335
-      bat bite 6 color_21: 1454168614
-      bat bite 6 color_47: -2067138520
-      bat bite 6 color_15: -2082783257
-      bat bite 6 color_26: -1603503508
-      bat bite 6 color_76: -1628843028
-      bat bite 6 color_46: 1134466787
-      bat bite 6 color_33: 1856510186
-      bat bite 6 color_88: 88518240
-      bat bite 6 color_53: 1759899197
-      bat bite 6 color_6: 1179186463
-      bat bite 6 color_17: 603324738
-      bat bite 6 color_8: -1473530943
-      bat bite 6 color_41: 996470617
-      bat bite 6 color_25: -1310498950
-      bat bite 6 color_30: -565133899
-      bat bite 6 color_39: 260230951
-      bat bite 6 color_19: 1522835757
-      bat bite 6 color_51: -468513269
-      bat bite 6 color_68: 710846952
-      bat bite 6 color_1: 655701858
-      bat bite 6 color_36: -1041388918
-      bat bite 6 color_75: 481882665
-      bat bite 6 color_69: -173298409
-      bat bite 6 color_70: -444663837
-      bat bite 6 color_66: -2147324343
-      bat bite 6 color_71: 1878076870
-      bat bite 6 color_62: 791037355
-      bat bite 6 color_84: -16514275
-      bat bite 6 color_18: -500276749
-      bat bite 6 color_82: 1936817734
-      bat bite 6 color_34: -377975696
-      bat bite 6 color_40: 1367076568
-      bat bite 6 color_24: 1582242691
-      bat bite 6 color_37: 1227223313
-      bat bite 6 color_72: 1114567443
-      bat bite 6 color_89: -910403610
-      bat bite 6 color_2: 766011639
-      bat bite 6 color_29: 1787153322
-      bat bite 6 color_58: 1959500336
-      bat bite 6 color_4: 1943811159
-      bat bite 6 color_11: -1377058692
-      bat bite 6 color_0: 25072387
-      bat bite 6 color_64: -1004445945
-      bat bite 6 color_67: -1511693038
-      bat bite 6 color_28: 151209153
-      bat bite 6 color_7: 323257031
-      bat bite 6 color_42: 1359966055
-      bat bite 6 color_44: -65942061
-      bat bite 6 color_81: -1263511517
-      bat bite 6 color_56: -1601883175
-      bat bite 6 color_43: -407811673
-      bat bite 6 color_79: -1236959606
+      bat bite 6 color 1_29: -1122171232
+      bat bite 6 color 1_16: 397769771
+      bat bite 6 color 1_43: -1429435316
+      bat bite 6 color 1_50: 1879893305
+      bat bite 6 color 1_11: 2145837941
+      bat bite 6 color 1_24: 834226585
+      bat bite 6 color 1_13: -533582060
+      bat bite 6 color 1_41: 551407889
+      bat bite 6 color 1_89: -328942817
+      bat bite 6 color 1_72: 1737198364
+      bat bite 6 color 1_78: 4644684
+      bat bite 6 color 1_76: -1680325513
+      bat bite 6 color 1_10: 425660573
+      bat bite 6 color 1_39: -1684585262
+      bat bite 6 color 1_14: 154422877
+      bat bite 6 color 1_64: 2136525482
+      bat bite 6 color 1_9: 1391765628
+      bat bite 6 color 1_33: -178295731
+      bat bite 6 color 1_6: -868731761
+      bat bite 6 color 1_74: 310341077
+      bat bite 6 color 1_75: -415772848
+      bat bite 6 color 1_51: 1219685953
+      bat bite 6 color 1_5: 1818996164
+      bat bite 6 color 1_7: -1827326810
+      bat bite 6 color 1_38: 1490396459
+      bat bite 6 color 1_40: -1425520909
+      bat bite 6 color 1_59: 1814474577
+      bat bite 6 color 1_73: -475662561
+      bat bite 6 color 1_20: -1057832905
+      bat bite 6 color 1_42: -1677138982
+      bat bite 6 color 1_27: -338574827
+      bat bite 6 color 1_23: 269516340
+      bat bite 6 color 1_3: -1598757407
+      bat bite 6 color 1_21: 349566259
+      bat bite 6 color 1_57: -1824255715
+      bat bite 6 color 1_19: 1479011036
+      bat bite 6 color 1_66: 1419281749
+      bat bite 6 color 1_44: 2059447415
+      bat bite 6 color 1_81: 1209287866
+      bat bite 6 color 1_55: -1322676791
+      bat bite 6 color 1_60: -814038874
+      bat bite 6 color 1_46: 785782652
+      bat bite 6 color 1_4: -2110975033
+      bat bite 6 color 1_1: -865871219
+      bat bite 6 color 1_86: 1463006619
+      bat bite 6 color 1_80: 1225800377
+      bat bite 6 color 1_35: 631399194
+      bat bite 6 color 1_32: -1643313690
+      bat bite 6 color 1_84: -312390938
+      bat bite 6 color 1_62: 649756885
+      bat bite 6 color 1_25: -126276411
+      bat bite 6 color 1_37: 1380589291
+      bat bite 6 color 1_53: -1361607287
+      bat bite 6 color 1_88: -1524075745
+      bat bite 6 color 1_54: 1574569484
+      bat bite 6 color 1_49: -971659793
+      bat bite 6 color 1_12: -1073327052
+      bat bite 6 color 1_52: -1193270234
+      bat bite 6 color 1_82: -350037593
+      bat bite 6 color 1_71: 1225821607
+      bat bite 6 color 1_0: 1290575484
+      bat bite 6 color 1_8: 1897822230
+      bat bite 6 color 1_85: -1438555662
+      bat bite 6 color 1_67: 1904914173
+      bat bite 6 color 1_48: 114069093
+      bat bite 6 color 1_47: 534604802
+      bat bite 6 color 1_30: -1957655439
+      bat bite 6 color 1_70: -1649783407
+      bat bite 6 color 1_17: -714830673
+      bat bite 6 color 1_61: -1028249307
+      bat bite 6 color 1_69: -1942928639
+      bat bite 6 color 1_79: 190754493
+      bat bite 6 color 1_15: 1742918165
+      bat bite 6 color 1_68: -1896592628
+      bat bite 6 color 1_18: 2059295093
+      bat bite 6 color 1_58: -492688618
+      bat bite 6 color 1_22: 27993314
+      bat bite 6 color 1_87: 1362956126
+      bat bite 6 color 1_26: -668117130
+      bat bite 6 color 1_2: -435466433
+      bat bite 6 color 1_31: 1082844313
+      bat bite 6 color 1_36: 814945346
+      bat bite 6 color 1_65: -1633545487
+      bat bite 6 color 1_63: 289839769
+      bat bite 6 color 1_45: -1015557038
+      bat bite 6 color 1_83: 881377679
+      bat bite 6 color 1_34: 2073214609
+      bat bite 6 color 1_56: -373991112
+      bat bite 6 color 1_28: -1370428214
+      bat bite 6 color 1_77: -2045321094
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 94173c221367c72449665abacdc57628
+guid: 645c330d7720f1a4fbdd1f3158012ac1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slime_Death_Yellow_0
+      name: Mushroom_Attack3_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 80
-        width: 15
-        height: 21
+        x: 62
+        y: 49
+        width: 25
+        height: 37
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 194bd2e971a794b42bca39294ea1a350
-      internalID: 555323860
+      spriteID: 3de2886c22b89fc47be3c3c0cb5c83d5
+      internalID: -715653294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Death_Yellow_1
+      name: Mushroom_Attack3_1
       rect:
         serializedVersion: 2
-        x: 84
-        y: 80
-        width: 16
-        height: 22
+        x: 212
+        y: 49
+        width: 23
+        height: 38
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d631d88db5483c848a0d75cf7030a380
-      internalID: -174296163
+      spriteID: e4914c4e81beeae4d87ac9d6005de035
+      internalID: -999527073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Death_Yellow_2
+      name: Mushroom_Attack3_2
       rect:
         serializedVersion: 2
-        x: 151
-        y: 80
-        width: 15
-        height: 18
+        x: 362
+        y: 49
+        width: 25
+        height: 37
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f56ad53c50979e0468ea37f69a2862a1
-      internalID: -86120623
+      spriteID: 8193613e8d8843043a8b4d27114a5a64
+      internalID: 1256502134
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Death_Yellow_3
+      name: Mushroom_Attack3_3
       rect:
         serializedVersion: 2
-        x: 210
-        y: 80
-        width: 26
-        height: 10
+        x: 516
+        y: 49
+        width: 27
+        height: 31
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5da2effc1d340bf4b907d25adefe0a08
-      internalID: 1277968690
+      spriteID: 645e78741af22764892bfe8c6a867ace
+      internalID: -1660664295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Death_Yellow_4
+      name: Mushroom_Attack3_4
       rect:
         serializedVersion: 2
-        x: 17
-        y: 16
-        width: 30
-        height: 5
+        x: 666
+        y: 49
+        width: 27
+        height: 32
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 273ea0c77808b834c8bccb8799891f84
-      internalID: 375177400
+      spriteID: 9553ef74d3c745b4491d920ce9dd757f
+      internalID: -1541355454
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Death_Yellow_5
+      name: Mushroom_Attack3_5
       rect:
         serializedVersion: 2
-        x: 81
-        y: 16
-        width: 30
-        height: 3
+        x: 816
+        y: 49
+        width: 27
+        height: 31
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,8 +223,113 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bfd7629dbe8bbc42a26d2ea5bb86d1f
-      internalID: 108554843
+      spriteID: 9812ccef77163304d8d3f1a2ed0fe483
+      internalID: 461619445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Attack3_6
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 49
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3596922949c72ce469b1866c2c8779ad
+      internalID: -786453281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Attack3_7
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 49
+        width: 47
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c9c6f2d8b0bb445becf02209d43070
+      internalID: -88497095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Attack3_9
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 49
+        width: 47
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c44583dfd52b784aa5f7b9e79c393c2
+      internalID: 1912276971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Attack3_19
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 49
+        width: 51
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba346a6cef982c4da38a40024e4ae52
+      internalID: -1288861104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Attack3_20
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 49
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca33cc70323e62e43a19491306162885
+      internalID: -203000304
       vertices: []
       indices: 
       edges: []
@@ -240,12 +345,27 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Slime_Death_Yellow_0: 555323860
-      Slime_Death_Yellow_3: 1277968690
-      Slime_Death_Yellow_5: 108554843
-      Slime_Death_Yellow_2: -86120623
-      Slime_Death_Yellow_4: 375177400
-      Slime_Death_Yellow_1: -174296163
+      Mushroom_Attack3_16: -1289281483
+      Mushroom_Attack3_8: -112770029
+      Mushroom_Attack3_13: 1515435615
+      Mushroom_Attack3_5: 461619445
+      Mushroom_Attack3_17: -1540919916
+      Mushroom_Attack3_11: 1338519649
+      Mushroom_Attack3_2: 1256502134
+      Mushroom_Attack3_20: -203000304
+      Mushroom_Attack3_7: -88497095
+      Mushroom_Attack3_1: -999527073
+      Mushroom_Attack3_10: 1953162085
+      Mushroom_Attack3_12: 1811349603
+      Mushroom_Attack3_18: -985074027
+      Mushroom_Attack3_3: -1660664295
+      Mushroom_Attack3_9: 1912276971
+      Mushroom_Attack3_4: -1541355454
+      Mushroom_Attack3_14: 1255498149
+      Mushroom_Attack3_19: -1288861104
+      Mushroom_Attack3_6: -786453281
+      Mushroom_Attack3_0: -715653294
+      Mushroom_Attack3_15: -1485585632
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

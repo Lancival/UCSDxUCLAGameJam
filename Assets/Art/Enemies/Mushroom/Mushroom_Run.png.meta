@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 29279950b1b69da4d99fc3b131210f19
+guid: 6f9fd5bdb68e5e54090e4b7eba910dac
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slime_Run_Yellow_0
+      name: Mushroom_Run_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 16
-        width: 20
-        height: 20
+        x: 62
+        y: 52
+        width: 25
+        height: 36
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 644eaed791084ad4d85b6ec95ac61fab
-      internalID: 508999883
+      spriteID: f31e50087fd8c4e44a0e6723de870aa1
+      internalID: -972961155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_1
+      name: Mushroom_Run_1
       rect:
         serializedVersion: 2
-        x: 83
-        y: 16
+        x: 213
+        y: 49
         width: 24
-        height: 19
+        height: 37
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8980ee613a7b4745831e88bc1e9ec18
-      internalID: 898808256
+      spriteID: 9ee54e3ce8581bf458c06341f2fd799d
+      internalID: 2118488701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_2
+      name: Mushroom_Run_2
       rect:
         serializedVersion: 2
-        x: 149
-        y: 16
-        width: 19
-        height: 17
+        x: 364
+        y: 50
+        width: 23
+        height: 37
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f6c63fc6afca7a43b71a33eae57f356
-      internalID: 715370350
+      spriteID: 6223919077d2bd2449bb614bbb75aac7
+      internalID: 584203942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_3
+      name: Mushroom_Run_3
       rect:
         serializedVersion: 2
-        x: 212
-        y: 16
-        width: 18
-        height: 16
+        x: 514
+        y: 52
+        width: 23
+        height: 36
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,8 +181,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f41686fa39c07145a73f924c358158e
-      internalID: 2084513967
+      spriteID: d53e929091cd550479fef1f193173fb8
+      internalID: 1573390706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Run_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 49
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f605100ce7fb7fe4a8178790085821fa
+      internalID: 259401239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Run_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 49
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf697dd3e92bde4a82a99bd8ad30058
+      internalID: 473660171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Run_6
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 50
+        width: 23
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a6dfe96edf79445b446004d0ab555d
+      internalID: -2131601010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom_Run_7
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 52
+        width: 24
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99928087b4b59de48b7a4fb2d08aa136
+      internalID: 1108936379
       vertices: []
       indices: 
       edges: []
@@ -198,10 +282,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Slime_Run_Yellow_0: 508999883
-      Slime_Run_Yellow_3: 2084513967
-      Slime_Run_Yellow_2: 715370350
-      Slime_Run_Yellow_1: 898808256
+      Mushroom_Run_0: -972961155
+      Mushroom_Run_2: 584203942
+      Mushroom_Run_6: -2131601010
+      Mushroom_Run_1: 2118488701
+      Mushroom_Run_4: 259401239
+      Mushroom_Run_7: 1108936379
+      Mushroom_Run_3: 1573390706
+      Mushroom_Run_5: 473660171
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

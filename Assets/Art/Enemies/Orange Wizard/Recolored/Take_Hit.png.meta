@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 29279950b1b69da4d99fc3b131210f19
+guid: 78160ade148b37a48befec7efd7a1e23
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slime_Run_Yellow_0
+      name: Take_Hit_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 16
-        width: 20
-        height: 20
+        x: 57
+        y: 50
+        width: 32
+        height: 55
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 644eaed791084ad4d85b6ec95ac61fab
-      internalID: 508999883
+      spriteID: c7c0c1c25c2c0d14d885098572fc5587
+      internalID: -593046081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_1
+      name: Take_Hit_1
       rect:
         serializedVersion: 2
-        x: 83
-        y: 16
-        width: 24
-        height: 19
+        x: 199
+        y: 53
+        width: 39
+        height: 48
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8980ee613a7b4745831e88bc1e9ec18
-      internalID: 898808256
+      spriteID: ddce9feb7e74bd94eb86824fc2d4d09c
+      internalID: 1719808308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_2
+      name: Take_Hit_2
       rect:
         serializedVersion: 2
-        x: 149
-        y: 16
-        width: 19
-        height: 17
+        x: 360
+        y: 53
+        width: 31
+        height: 48
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f6c63fc6afca7a43b71a33eae57f356
-      internalID: 715370350
+      spriteID: a1923ff4bd5f99a4fb3db650ce533991
+      internalID: 1461430702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_3
+      name: Take_Hit_3
       rect:
         serializedVersion: 2
-        x: 212
-        y: 16
-        width: 18
-        height: 16
+        x: 505
+        y: 53
+        width: 36
+        height: 46
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,8 +181,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f41686fa39c07145a73f924c358158e
-      internalID: 2084513967
+      spriteID: c5828dd9ef10e474b9166070d00a4095
+      internalID: -177520272
       vertices: []
       indices: 
       edges: []
@@ -198,10 +198,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Slime_Run_Yellow_0: 508999883
-      Slime_Run_Yellow_3: 2084513967
-      Slime_Run_Yellow_2: 715370350
-      Slime_Run_Yellow_1: 898808256
+      Take_Hit_1: 1719808308
+      Take_Hit_0: -593046081
+      Take_Hit_3: -177520272
+      Take_Hit_2: 1461430702
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

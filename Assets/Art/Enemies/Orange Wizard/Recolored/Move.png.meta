@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 29279950b1b69da4d99fc3b131210f19
+guid: fde5fa8e0b2cd5d47a53c37932857731
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slime_Run_Yellow_0
+      name: Move_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 16
-        width: 20
-        height: 20
+        x: 50
+        y: 49
+        width: 48
+        height: 65
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 644eaed791084ad4d85b6ec95ac61fab
-      internalID: 508999883
+      spriteID: bd00f9308d0458346bda17f0c93d1b8a
+      internalID: -1664194603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_1
+      name: Move_1
       rect:
         serializedVersion: 2
-        x: 83
-        y: 16
-        width: 24
-        height: 19
+        x: 200
+        y: 49
+        width: 48
+        height: 66
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8980ee613a7b4745831e88bc1e9ec18
-      internalID: 898808256
+      spriteID: 8c42936b4bd2787459cd85305176198e
+      internalID: 1328729264
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_2
+      name: Move_2
       rect:
         serializedVersion: 2
-        x: 149
-        y: 16
-        width: 19
-        height: 17
+        x: 349
+        y: 49
+        width: 49
+        height: 67
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f6c63fc6afca7a43b71a33eae57f356
-      internalID: 715370350
+      spriteID: 23c904bc76ce76a40bf2882386637f7d
+      internalID: -922628851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime_Run_Yellow_3
+      name: Move_3
       rect:
         serializedVersion: 2
-        x: 212
-        y: 16
-        width: 18
-        height: 16
+        x: 500
+        y: 49
+        width: 48
+        height: 67
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,8 +181,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f41686fa39c07145a73f924c358158e
-      internalID: 2084513967
+      spriteID: e2bd43c0970075542b51b860b69916af
+      internalID: -1983767050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_4
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 49
+        width: 48
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951976f0662f3744b8f2d50528ec301b
+      internalID: -986014434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_5
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 49
+        width: 52
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dfa92187fae154f806ac298ddba970
+      internalID: -1216153500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_6
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 49
+        width: 52
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e5ac38bd3e49e47a9f0924b8d8b4bd
+      internalID: 704678944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_7
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 49
+        width: 52
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b657c35098bc244bd0119d9c794d17
+      internalID: 47940817
       vertices: []
       indices: 
       edges: []
@@ -198,10 +282,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Slime_Run_Yellow_0: 508999883
-      Slime_Run_Yellow_3: 2084513967
-      Slime_Run_Yellow_2: 715370350
-      Slime_Run_Yellow_1: 898808256
+      Move_4: -986014434
+      Move_5: -1216153500
+      Move_6: 704678944
+      Move_2: -922628851
+      Move_3: -1983767050
+      Move_1: 1328729264
+      Move_0: -1664194603
+      Move_7: 47940817
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
